@@ -20,26 +20,6 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** and **Data Engin
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=renurai24&theme=radical" alt="Coding Streak" />
 </div>
-
----
-
-## 🚀 Featured Projects
-Here are some of the projects I've been working on:
-
-1. [🌍 **Airbnb Listings and Rental Performance Dashboard**](https://github.com/renurai24/airbnb-dashboard)
-   - A **Power BI** dashboard that visualizes Airbnb listings, providing insights into occupancy rates, rental performance, and more.
-   - 🛠️ Tools: **Power BI**, **Excel**
-
-2. [📊 **Customer Segmentation Dashboard**](https://github.com/renurai24/customer-segmentation)
-   - Built an RFM analysis-based **Power BI** dashboard for customer segmentation to provide valuable business insights.
-   - 🛠️ Tools: **Power BI**, **SQL**
-
-3. [🔍 **Data Analysis on Retail Sales**](https://github.com/renurai24/retail-sales-analysis)
-   - Analyzed retail sales data and provided actionable insights using **SQL** and **Python**.
-   - 🛠️ Tools: **Python**, **SQL**
-
----
-
 ## 💡 Skills & Technologies
 ### Languages and Tools:
 <div align="center">
